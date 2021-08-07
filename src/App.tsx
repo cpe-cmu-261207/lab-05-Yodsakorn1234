@@ -10,7 +10,7 @@ function App() {
 
             <Todo/>
 
-            <Footer copyrightText="Copyright © 2021 Minimal todo list by Yodsakorn Likitrung"></Footer>
+            <Footer copyrightText="Copyright © 2021 Minimal todo list by Yodsakorn likitrungson"></Footer>
         </div>
     );
 }
